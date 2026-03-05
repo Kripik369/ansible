@@ -26,7 +26,10 @@ part2
 
 3)<img width="1474" height="705" alt="image" src="https://github.com/user-attachments/assets/f689382c-4c8b-4e7e-905c-1c1991b644c5" />
 
-4)
+4)<img width="1327" height="236" alt="image" src="https://github.com/user-attachments/assets/9224a452-1dd4-44fc-bdb4-475da8d0814d" />
+
+
+
 
 
 
