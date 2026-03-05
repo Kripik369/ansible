@@ -18,6 +18,18 @@ facts
 9,10,11)<img width="1504" height="711" alt="image" src="https://github.com/user-attachments/assets/3b9a459d-5190-4df2-830f-bd90bee4f509" />
 
 
+part2
+
+1)<img width="1110" height="321" alt="image" src="https://github.com/user-attachments/assets/4fb8bb18-81f3-4726-9913-e70f797e4095" />
+
+2)<img width="1290" height="307" alt="image" src="https://github.com/user-attachments/assets/69120b11-d032-4499-9c37-1c624f7faf3e" />
+
+3)<img width="1474" height="705" alt="image" src="https://github.com/user-attachments/assets/f689382c-4c8b-4e7e-905c-1c1991b644c5" />
+
+4)
+
+
+
 
 
 
