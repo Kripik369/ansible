@@ -15,6 +15,12 @@ facts
 
 7,8)<img width="1468" height="622" alt="image" src="https://github.com/user-attachments/assets/f9acf05a-57ba-4e32-b910-43d6b64ea643" />
 
+9,10,11)<img width="1504" height="711" alt="image" src="https://github.com/user-attachments/assets/3b9a459d-5190-4df2-830f-bd90bee4f509" />
+
+
+
+
+
 
 
 
